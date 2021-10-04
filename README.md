@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sidneygjwong
 - 👀 I’m interested in linguistics and data science.
-- 🌱 I’m currently learning R, Julia, ...
+- 🌱 I’m currently learning R, Python, Julia, ...
 - 💞️ I’m looking to collaborate on language variation and change, corpus linguistics, data
 - 📫 How to reach me @sidneygjwong
