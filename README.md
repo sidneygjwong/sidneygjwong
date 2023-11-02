@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @sidneygjwong
+- 👋 Kia ora, I’m @sidneygjwong
 - 👀 I’m interested in linguistics and data science.
-- 🌱 I’m currently learning R, Python, Julia, ...
-- 💞️ I’m looking to collaborate on language variation and change, corpus linguistics, data
-- 📫 How to reach me @sidneygjwong
+- 📫 You can reach me @sidneygjwong on bluesky, twitter/x, and mastodon
