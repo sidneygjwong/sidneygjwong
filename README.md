@@ -1,3 +1,3 @@
-- 👋 Kia ora, I’m @sidneygjwong
+- 👋 Kia ora, I’m Sidney
 - 👀 I’m interested in linguistics and data science.
 - 📫 You can reach me @sidneygjwong on bluesky, twitter/x, and mastodon
